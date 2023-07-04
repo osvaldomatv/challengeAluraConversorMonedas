@@ -16,7 +16,9 @@ se muestra el ingreso de valor
 se muestra el tipo de monedas
 
 <img width="337" alt="image" src="https://github.com/osvaldomatv/challengeAluraConversorMonedas/assets/129325359/8c079875-0a11-48bd-8d49-535e1139d29f">
+
 se muestra como da el resultado
+
 <img width="255" alt="image" src="https://github.com/osvaldomatv/challengeAluraConversorMonedas/assets/129325359/e400c3ef-ff31-4076-884e-d264ce2a5807">
 
 te indica si quieres otra conversion
